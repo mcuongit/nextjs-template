@@ -1,0 +1,35 @@
+{
+  "validation": {
+    "required": "This field is required",
+    "minLength": "Must be at least {{count}} characters",
+    "maxLength": "Must be no more than {{count}} characters",
+    "email": "Must be a valid email address",
+    "password": {
+      "weak": "Password is too weak",
+      "medium": "Password strength is medium",
+      "strong": "Password is strong"
+    },
+    "passwordMatch": "Passwords do not match",
+    "number": "Must be a valid number",
+    "min": "Must be at least {{min}}",
+    "max": "Must be no more than {{max}}",
+    "url": "Must be a valid URL",
+    "date": "Must be a valid date",
+    "phone": "Must be a valid phone number",
+    "postalCode": "Must be a valid postal code",
+    "username": {
+      "taken": "This username is already taken",
+      "invalid": "Username can only contain letters, numbers, and underscores"
+    },
+    "file": {
+      "tooLarge": "File is too large. Maximum size is {{size}}MB",
+      "invalidType": "Invalid file type. Allowed types are: {{types}}"
+    },
+    "captcha": "Please complete the captcha",
+    "custom": {
+      "invalidSelection": "Invalid selection",
+      "outOfStock": "Item is out of stock",
+      "duplicateEntry": "Duplicate entry is not allowed"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "glossary": {
+    "user": "Người dùng",
+    "admin": "Quản trị viên",
+    "dashboard": "Bảng điều khiển",
+    "profile": "Hồ sơ",
+    "settings": "Cài đặt",
+    "slogan": "Giữ kết nối mọi lúc, mọi nơi",
+    "slogand": "Syncbim chat giúp bạn dễ dàng và thú vị khi ở gần những người bạn yêu thích.",
+    "feature": "Tính năng",
+    "app": "Ứng dụng",
+    "continueLogin": "Tiếp tục với {name}",
+
+    "chatInfo": "Thông tin về đoạn chat",
+    "lastOnline": "Hoạt động {{time}} trước",
+    "enterMessage": "Nhập tin nhắn đến {{name}}",
+    "activating": "Đang hoạt động",
+    "pin": "Ghim hội thoại",
+    "chat": "Đoạn chat"
+  }
+}

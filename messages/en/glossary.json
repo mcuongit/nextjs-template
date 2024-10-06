@@ -1,0 +1,14 @@
+{
+  "glossary": {
+    "user": "User",
+    "admin": "Administrator",
+    "dashboard": "Dashboard",
+    "profile": "Profile",
+    "settings": "Settings",
+    "slogan": "Hang out whenever, wherever",
+    "slogand": "Syncbim chat makes it easy and fun to stay close to your favourite people.",
+    "feature": "Features",
+    "app": "Apps",
+    "continueLogin": "Continue with {name}"
+  }
+}

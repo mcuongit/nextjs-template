@@ -1,0 +1,68 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success!",
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "confirm": "Confirm",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "home": "Home",
+
+    "about": "About",
+    "contact": "Contact",
+    "profile": "Profile",
+    "settings": "Settings",
+    "logout": "Log out",
+    "login": "Log in",
+    "signup": "Sign up",
+
+    "today": "Today",
+    "yesterday": "Yesterday",
+    "tomorrow": "Tomorrow",
+    "now": "Now",
+
+    "welcome": "Welcome",
+    "goodbye": "Goodbye",
+    "thankYou": "Thank you",
+    "pleaseWait": "Please wait",
+
+    "submit": "Submit",
+    "reset": "Reset",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+
+    "active": "Active",
+    "inactive": "Inactive",
+    "pending": "Pending",
+    "completed": "Completed",
+
+    "newMessage": "New message",
+    "notification": "Notification",
+    "alert": "Alert",
+
+    "language": "Language",
+    "changeLanguage": "Change language",
+    "currentLanguage": "Current language",
+
+    "share": "Share",
+    "like": "Like",
+    "comment": "Comment",
+    "follow": "Follow",
+    "unfollow": "Unfollow",
+
+    "learnMore": "Learn more",
+    "showMore": "Show more",
+    "showLess": "Show less",
+    "seeAll": "See all",
+
+    "password": "Password",
+    "message": "Message",
+    "group": "Group"
+  }
+}

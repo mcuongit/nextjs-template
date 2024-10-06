@@ -1,0 +1,74 @@
+{
+  "common": {
+    "loading": "Đang tải...",
+    "error": "Đã xảy ra lỗi",
+    "success": "Thành công!",
+    "cancel": "Hủy",
+    "save": "Lưu",
+    "edit": "Chỉnh sửa",
+    "delete": "Xóa",
+    "confirm": "Xác nhận",
+    "back": "Quay lại",
+    "next": "Tiếp",
+    "previous": "Trước",
+
+    "home": "Trang chủ",
+    "about": "Giới thiệu",
+    "contact": "Liên hệ",
+    "profile": "Hồ sơ",
+    "settings": "Cài đặt",
+    "logout": "Đăng xuất",
+    "login": "Đăng nhập",
+    "signup": "Đăng ký",
+
+    "today": "Hôm nay",
+    "yesterday": "Hôm qua",
+    "tomorrow": "Ngày mai",
+    "now": "Bây giờ",
+
+    "welcome": "Chào mừng",
+    "goodbye": "Tạm biệt",
+    "thankYou": "Cảm ơn",
+    "pleaseWait": "Vui lòng đợi",
+
+    "submit": "Gửi",
+    "reset": "Đặt lại",
+    "search": "Tìm kiếm",
+    "filter": "Lọc",
+    "sort": "Sắp xếp",
+
+    "active": "Hoạt động",
+    "inactive": "Không hoạt động",
+    "pending": "Đang chờ",
+    "completed": "Hoàn thành",
+
+    "newMessage": "Tin nhắn mới",
+    "notification": "Thông báo",
+    "alert": "Cảnh báo",
+
+    "language": "Ngôn ngữ",
+    "changeLanguage": "Thay đổi ngôn ngữ",
+    "currentLanguage": "Ngôn ngữ hiện tại",
+
+    "share": "Chia sẻ",
+    "like": "Thích",
+    "comment": "Bình luận",
+    "follow": "Theo dõi",
+    "unfollow": "Bỏ theo dõi",
+
+    "learnMore": "Tìm hiểu thêm",
+    "showMore": "Hiển thị thêm",
+    "showLess": "Hiển thị ít hơn",
+    "seeAll": "Xem tất cả",
+
+    "password": "Mật khẩu",
+    "message": "Tin nhắn",
+    "group": "Nhóm",
+
+    "media": "Đa phương tiện",
+    "file": "Tập tin",
+    "link": "Liên kết",
+    "all": "Tất cả",
+    "unread": "Chưa đọc"
+  }
+}

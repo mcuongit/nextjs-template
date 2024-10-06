@@ -1,0 +1,35 @@
+{
+  "validation": {
+    "required": "Trường này là bắt buộc",
+    "minLength": "Phải có ít nhất {{count}} ký tự",
+    "maxLength": "Không được quá {{count}} ký tự",
+    "email": "Phải là một địa chỉ email hợp lệ",
+    "password": {
+      "weak": "Mật khẩu quá yếu",
+      "medium": "Độ mạnh mật khẩu trung bình",
+      "strong": "Mật khẩu mạnh"
+    },
+    "passwordMatch": "Mật khẩu không khớp",
+    "number": "Phải là một số hợp lệ",
+    "min": "Phải ít nhất là {{min}}",
+    "max": "Không được quá {{max}}",
+    "url": "Phải là một URL hợp lệ",
+    "date": "Phải là một ngày hợp lệ",
+    "phone": "Phải là một số điện thoại hợp lệ",
+    "postalCode": "Phải là một mã bưu chính hợp lệ",
+    "username": {
+      "taken": "Tên người dùng này đã được sử dụng",
+      "invalid": "Tên người dùng chỉ có thể chứa chữ cái, số và dấu gạch dưới"
+    },
+    "file": {
+      "tooLarge": "Tập tin quá lớn. Kích thước tối đa là {{size}}MB",
+      "invalidType": "Loại tập tin không hợp lệ. Các loại được phép là: {{types}}"
+    },
+    "captcha": "Vui lòng hoàn thành captcha",
+    "custom": {
+      "invalidSelection": "Lựa chọn không hợp lệ",
+      "outOfStock": "Mặt hàng đã hết hàng",
+      "duplicateEntry": "Không cho phép nhập trùng lặp"
+    }
+  }
+}
